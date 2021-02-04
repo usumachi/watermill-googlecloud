@@ -1,4 +1,4 @@
-module github.com/ThreeDotsLabs/watermill-googlecloud
+module github.com/usumachi/watermill-googlecloud
 
 require (
 	cloud.google.com/go v0.38.0
